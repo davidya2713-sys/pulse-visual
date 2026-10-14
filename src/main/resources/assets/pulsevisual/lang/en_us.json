@@ -1,0 +1,9 @@
+{
+  "key.category.pulsevisual.main": "Pulse Visual",
+  "key.pulsevisual.hud": "Toggle HUD (all)",
+  "key.pulsevisual.watermark": "Toggle Watermark",
+  "key.pulsevisual.fps": "Toggle FPS Counter",
+  "key.pulsevisual.coords": "Toggle Coords",
+  "key.pulsevisual.keystrokes": "Toggle Keystrokes",
+  "key.pulsevisual.modulelist": "Toggle Module List"
+}

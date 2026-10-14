@@ -1,0 +1,9 @@
+{
+  "key.category.pulsevisual.main": "Pulse Visual",
+  "key.pulsevisual.hud": "Вкл/выкл весь HUD",
+  "key.pulsevisual.watermark": "Вкл/выкл водяной знак",
+  "key.pulsevisual.fps": "Вкл/выкл счётчик FPS",
+  "key.pulsevisual.coords": "Вкл/выкл координаты",
+  "key.pulsevisual.keystrokes": "Вкл/выкл нажатия клавиш",
+  "key.pulsevisual.modulelist": "Вкл/выкл список модулей"
+}
